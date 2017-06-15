@@ -1,4 +1,5 @@
-# Docker + Nginx + Let's Encrypt + Rstudio + Shiny
+# Encrypted Dashboard based on docker
+## + Nginx + Let's Encrypt + Rstudio + Shiny based on custom made debian full with different libraries and an R version with a lot of pre-installed libraries.
 
 ## Overview:
 This project represents an easy and simple way to launch versions of Rstudio and Shiny with
